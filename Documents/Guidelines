@@ -1,0 +1,17 @@
+1. If it's a problem/task, it should be an issue. Feel free to make new issues. Assign to Eric or, if you plan to do work on it, yourself.
+2. Everything should have a meaningful name, and description when applicable. I'm not about to spend more than 10min tracking what "var1" is used for, or "It's broken" is referring to.
+3. If you have additional information or question regarding an issue, comment on the issue. Someone else may have the same question later.
+4. DO NOT COMMIT TO MASTER! Work should be commited to side branches. When an issue is completed, submit a pull request. I will review the changes and then merge it into master.
+5. Do not look too far into the numbering of these guidelines. It's just the order in which I thought of them, for now.
+6. If you are unsure/stuck/in need of help, ask. No one knows everything, and this is a learning experience.
+7. Good formatting goes a long way. When opening a tag/brace, increase indent and move to the next line. Likewise, when closing a tag/brace, decrease indent.
+7a. One thing per line. Each tag/attribute/statement should be on its own line for readability.
+8. Comment your code, even if you think it's easy to understand.
+8a. Do not just re-iterate the code (<!-- table -->  <table></table>). What table? What's in it? Where is it? The comment should answer an obvious question.
+9. Commits and Issues are not necessarily one-to-one.  One issue may require a few commits, and one commit may handle multiple issues. Just reference the related issue(s) in your commit
+10. Do no harm. If fixing an issue, don't break anything else.
+11. Do not submit broken code. This isn't a school project. No points for un-finished or broken code.
+12. Deadlines are a double-edged sword. It's nice to have time to work on something, but as some point, it needs to get done. If you ever feel you aren't going to meet one, let someone know.
+13. (see #4)Branches are cheap. Make a branch for whatever you want. One per person, per issue, or just a sandbox. Use a branch. It can always be merged/deleted.
+14. Changes will get rejected. Don't take it personally, I get a little particular when it comes to code. Those who come after you will be thankful.
+15. Documentation is your friend. For this project, it won't be that bad.
